@@ -10,7 +10,7 @@
 
 🔬 I am an aspiring data analyst and data scientist.  <br>👨‍💻 I'm proficient in Python, SQL, and various data science libraries and tools.<br>💡 I have a passion for uncovering insights from data and solving complex problems through analysis and visualization.<br>📈 My goal is to leverage data-driven solutions to drive impactful decisions.    
 📫 How to reach me **shobhitjaiswal425@gmail.com**    
-👨‍💻 All of my projects are available at **[GitHub Repositories](https://shobhitjais?tab=repositories)**
+👨‍💻 All of my projects are available at **[GitHub Repositories](https://github.com/shobhitjais?tab=repositories)**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center" style="margin-top: 50px; display: flex; justify-content: center; align-items: center;">
