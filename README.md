@@ -43,40 +43,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/>
 </p>
 
-<!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=thisisnancy&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisnancy&theme=nightowl&hide_border=false" alt="thisisnancy streak" />
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thisisnancy&theme=nightowl&hide_border=false&langs_count=10"/>
-</td>
-</tr>
-</table>
-</p>
-<br>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph*** 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- <h2 align="center" style="margin-top: 60px;">⚡ Activity Graph:</h2> -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisnancy&theme=nightowl"/>
-</div>
-
----
-
-<div align="center" style="margin-top: 40px;">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=thisisnancy&label=Profile%20Views&color=FF69B4&icon=9&pretty=true" />
-  </a>
-</div>
-
+--
 <div align="center" style="margin-top: 50px; padding: 20px; background-color: #f0f0f0; border-radius: 15px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);">
   <h3>Thanks for visiting my profile!🚀</h3>
 </div>
