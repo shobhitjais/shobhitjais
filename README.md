@@ -1,4 +1,4 @@
-<h1 style="margin-top: 50px; display: flex; justify-content: center; align-items: center;"> Hi there👋 I am Shobhit Jaiswal </h1>
+<h1 style="margin-top: 50px; display: flex; justify-content: center; align-items: center;"> Hi there👋 I am Shobhit Jaiswal <br>Data Analyst | Internship Experience</br></h1>
 
 <img align="right" src="https://cdn.dribbble.com/users/2243198/screenshots/5791691/anim-5-800.gif" 
      style="float: right; margin-top: 20px; width: 350px; height: 333px;" />
