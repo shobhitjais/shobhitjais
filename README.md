@@ -30,7 +30,8 @@ I enjoy converting raw datasets into meaningful insights that support data-drive
 - Pandas, NumPy, Excel  
 - Power BI  
 - MySQL  
-- GitHub, Jupyter Notebook  
+- GitHub, Jupyter Notebook
+- Statistics
 
 ---
 
